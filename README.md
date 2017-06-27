@@ -20,7 +20,9 @@ Or install it yourself as:
 
 ## Usage
 
-TODO: Write usage instructions here
+```ruby
+McalisterViewTool::Renderer.copyright 'Jesse Mcalister', 'All rights reserved'
+```
 
 ## Development
 
